@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donaldsingh95
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Developer.
 - 🌱 I’m currently learning React, Javascript, Jquery, CSS, Bootstrap, HTML, XML.
 - 💞️ I’m looking to collaborate on Website Development.
 - 📫 How to reach me www.donaldsingh.in
